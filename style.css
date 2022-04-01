@@ -203,7 +203,7 @@ header .search-bar-container label:hover{
 }
 
 .login-form-container{
-  position: fixed;
+  
   top:-120%; left: 0;
   z-index: 10000;
   min-height: 100vh;
